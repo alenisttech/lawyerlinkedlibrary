@@ -1,0 +1,84 @@
+{
+  "title": "THE AGRICULTURAL PRODUCE (GRADING AND MARKING) ACT, 1937",
+  "act_number": "ACT NO. 1 OF 1937",
+  "assent_date": "24th February, 1937",
+  "long_title": "An Act to provide for the grading and marking of agricultural and other produce.",
+  "preamble": "WHEREAS it is expedient to provide for the grading and marking of agricultural and other produce; It is hereby enacted as follows:",
+  "chapters": [
+    {
+      "chapter_number": null,
+      "chapter_title": null,
+      "sections": [
+        {
+          "section_number": "1",
+          "section_title": "Short title and extent",
+          "text": "(1) This Act may be called the Agricultural Produce (Grading and Marking) Act, 1937. (2) It extends to the whole of India."
+        },
+        {
+          "section_number": "2",
+          "section_title": "Explanations",
+          "text": "Defines: (a) \"agricultural produce\" (includes produce of agriculture or horticulture, articles of food or drink manufactured therefrom, fleeces and skins of animals); (b) \"counterfeit\" (as in IPC s. 28); (c) \"covering\"; (d) \"grade designation\"; (e) \"grade designation mark\"; (f) \"quality\"; (g) \"prescribed\"; (h) \"scheduled article\"; (i) when an article is said to be marked with a grade designation mark; (j) when an article is said to be migraded (not of prescribed quality, composition altered after sampling, or tampered with)."
+        },
+        {
+          "section_number": "3",
+          "section_title": "Prescription of grade designations",
+          "text": "The Central Government may, by notification, prescribe grade designations for any scheduled article indicating quality, prescribe grade designation marks, authorise the application of such marks, and make rules for the conditions of application, sampling, analysis, and other related matters."
+        },
+        {
+          "section_number": "3A",
+          "section_title": "Powers of entry, inspection and search",
+          "text": "Any officer authorised by the Central Government may enter any premises, inspect any agricultural produce, and search any place where he has reason to believe that an offence under this Act has been or is being committed, and may seize any article or document relevant to the offence."
+        },
+        {
+          "section_number": "3B",
+          "section_title": "Powers of the authorised officer to seize agricultural produce",
+          "text": "The authorised officer may seize any agricultural produce in respect of which he has reason to believe that an offence under this Act has been committed, and shall follow the prescribed procedure for seizure, storage and disposal."
+        },
+        {
+          "section_number": "4",
+          "section_title": "Penalty for unauthorised marking with grade designation mark",
+          "text": "Whoever marks any scheduled article with a grade designation mark which is not authorised, or applies a mark resembling a grade designation mark so as to deceive, shall be punishable with fine which may extend to the amount prescribed, or with imprisonment, or both, as provided in the Act (as amended)."
+        },
+        {
+          "section_number": "5",
+          "section_title": "Penalty for counterfeiting grade designation mark",
+          "text": "Whoever counterfeits any grade designation mark, or has in his possession any die, plate or other instrument for counterfeiting such mark, shall be punishable as provided under the Act."
+        },
+        {
+          "section_number": "5A",
+          "section_title": "Penalty for selling migraded articles",
+          "text": "Whoever sells or offers for sale any article which is migraded shall be punishable with fine or imprisonment or both as provided under the Act."
+        },
+        {
+          "section_number": "5B",
+          "section_title": "Power to prescribe compulsory grade designations in respect of certain articles",
+          "text": "The Central Government may, by notification, declare that the grading and marking of any scheduled article shall be compulsory, and thereupon no person shall sell or offer for sale such article unless it is marked with the prescribed grade designation mark."
+        },
+        {
+          "section_number": "5C",
+          "section_title": "Adjudicating officer",
+          "text": "The Central Government may appoint adjudicating officers for the purpose of adjudicating penalties under this Act; such officers shall have the powers of a civil court for summoning witnesses, discovery and production of documents, and other prescribed powers."
+        },
+        {
+          "section_number": "5D",
+          "section_title": "Appeal",
+          "text": "Any person aggrieved by an order of an adjudicating officer may prefer an appeal to the Agricultural Marketing Adviser or such other authority as may be prescribed, within the prescribed time and manner."
+        },
+        {
+          "section_number": "5E",
+          "section_title": "Recovery",
+          "text": "If the penalty imposed by the adjudicating officer or the appellate authority is not deposited, the amount shall be recovered as an arrear of land revenue."
+        },
+        {
+          "section_number": "6",
+          "section_title": "Extension of application of Act",
+          "text": "The Central Government, after such consultation as it thinks fit of the interests likely to be affected, may by notification in the Official Gazette declare that the provisions of this Act shall apply to an article of agricultural produce not included in the Schedule or to an article other than an article of agricultural produce, and on the publication of such notification such article shall be deemed to be included in the Schedule."
+        }
+      ]
+    }
+  ],
+  "schedule": {
+    "title": "THE SCHEDULE (See section 2)",
+    "description": "List of scheduled articles to which the Act applies, including fruit, vegetables, eggs, dairy produce, tobacco, coffee, hides and skins, fruit products, atta, oilseeds, vegetable oils, cotton, rice, lac, wheat, sann hemp, sugarcane gur, myrobalans, bura, wool and goat hair, bristles, rosin and turpentine, arecanuts, essential oil, cashewnut, cardamom, pepper, ginger, honey, curry powder, kapok, raw jute, paddy, millets, mesta, chilies, turmeric, tapioca chips and flour, sisal and aloe fibres, oil cakes, condiments and spices, pulses, walnut, animal casings, guar gum, karaya gum, senna leaves and pods, palmyra fibre, catechu, tendu leaves, water chest-nut, mushrooms, poppy seed, cashew-shell oil, beeswax, gram, jowar, maize, barley, ragi, bajra, sheekakai powder, compounded asafoetida, and others as notified."
+  }
+}
