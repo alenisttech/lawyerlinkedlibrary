@@ -1,0 +1,612 @@
+{
+  "meta": {
+    "shortName": "ACTA",
+    "fullName": "Actuaries Act, 2006",
+    "actNo": "35 of 2006",
+    "year": "2006",
+    "status": "current",
+    "unitLabel": "Section"
+  },
+  "sections": [
+    {
+      "number": "1",
+      "title": "Short title, extent and commencement",
+      "chapter": "Chapter I - Preliminary",
+      "subChapter": "",
+      "content": "(1) This Act may be called the Actuaries Act, 2006.\n(2) It extends to the whole of India.\n(3) It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint: Provided that different dates may be appointed for different provisions of this Act and any reference in any such provision to the commencement of this Act shall be construed as a reference to the commencement of that provision. [Came into force 10th November, 2006, vide notification No. S.O. 1912(E), dated 28th November, 2006.]",
+      "keywords": ["short title", "extent", "commencement"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "2",
+      "title": "Definitions",
+      "chapter": "Chapter I - Preliminary",
+      "subChapter": "",
+      "content": "(1) In this Act, unless the context otherwise requires:\n(a) \"Actuary\" means a person skilled in determining the present effects of future contingent events or in finance modelling and risk analysis in different areas of insurance, or calculating the value of life interests and insurance risks, or designing and pricing of policies, working out benefits, recommending rates relating to insurance business, annuities, insurance and pension rates based on empirically based tables, and includes a statistician engaged in such technology, taxation, employees' benefits and other risk management and investments, who is a fellow member of the Institute; \"actuarial science\" is construed accordingly;\n(b) \"Actuarial Society\" means the Actuarial Society of India registered under the Societies Registration Act, 1860 (21 of 1860) and the Bombay Public Trusts Act, 1950;\n(c) \"appointed day\" means the date on which the Institute is constituted under section 3(1);\n(d) \"Authority\" means the Appellate Authority referred to in section 32;\n(e) \"Board\" means the Quality Review Board constituted under section 43(1);\n(f) \"Council\" means the Council of the Institute referred to in section 12;\n(g) \"fellow\" means a fellow member of the Institute;\n(h) \"Institute\" means the Institute of Actuaries of India constituted under section 3;\n(i) \"member\" means an individual whose name appears in the register of members maintained by the Institute;\n(j) \"prescribed\" means prescribed by rules made under this Act;\n(k) \"President\" means the President of the Council;\n(l) \"register\" means the register of members maintained by the Institute under this Act;\n(m) \"specified\" means specified by regulations made under this Act;\n(n) \"Tribunal\" means a Tribunal established under section 16(1);\n(o) \"Vice-President\" means the Vice-President of the Council;\n(p) \"year\" means the period commencing 1st April of any year and ending 31st March of the succeeding year.\n(2) A member of the Institute shall be deemed \"to be in practice\" when, individually or in partnership with Actuaries in practice as a member or employee of a company, he (whether or not for remuneration): (i) engages himself in actuarial profession; or (ii) offers to perform or performs services involving application of actuarial techniques in insurance, pension, investment, finance and management; or (iii) renders such other services as, in the Council's opinion, are or may be rendered by an actuary in practice; or (iv) is in employment of a person engaged in one or more of those activities. Explanation.—\"company\" includes a public financial institution as defined in section 4A of the Companies Act, 1956.",
+      "keywords": ["definitions", "Actuary", "Institute", "Council", "Tribunal", "in practice"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "3",
+      "title": "Incorporation of Institute",
+      "chapter": "Chapter II - Institute of Actuaries of India",
+      "subChapter": "",
+      "content": "(1) With effect from a date appointed by the Central Government, all persons whose names are entered in the register of the Actuarial Society at the commencement of this Act, and all persons subsequently entered in the register maintained under this Act, so long as their names remain borne on the register, are constituted a body corporate by the name of the Institute of Actuaries of India, and all such persons shall be known as members of the Institute.\n(2) The Institute shall have perpetual succession and a common seal and power to acquire, hold and dispose of movable and immovable property, and shall sue or be sued by its name.\n(3) The head office of the Institute shall be situated at such place as decided by the Central Government.",
+      "keywords": ["incorporation", "Institute of Actuaries of India", "body corporate"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "4",
+      "title": "Transfer of assets, liabilities, etc., of Actuarial Society",
+      "chapter": "Chapter II - Institute of Actuaries of India",
+      "subChapter": "",
+      "content": "On the appointed day:\n(a) all assets and liabilities of the Actuarial Society shall stand transferred to, and vested in, the Institute. Explanation.—Assets include all rights, powers and properties (movable/immovable), cash balances, deposits and related interests, and all books of account and documents; liabilities include all debts, liabilities and obligations of whatever kind;\n(b) all debts, obligations and liabilities incurred, contracts entered into, and matters engaged to be done by, with or for the Actuarial Society immediately before that day shall be deemed to have been incurred/entered into/engaged by, with or for the Institute;\n(c) all sums of money due to the Actuarial Society immediately before that day shall be deemed due to the Institute; and\n(d) all suits and legal proceedings instituted or which could have been instituted by or against the Actuarial Society may be continued or instituted by or against the Institute.",
+      "keywords": ["transfer of assets", "liabilities", "Actuarial Society"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "5",
+      "title": "Objects of Institute",
+      "chapter": "Chapter II - Institute of Actuaries of India",
+      "subChapter": "",
+      "content": "The objects of the Institute shall be:\n(a) to promote, uphold and develop standards of professional education, training, knowledge, practice and conduct amongst Actuaries;\n(b) to promote the status of the Actuarial profession;\n(c) to regulate the practice by members of the profession of Actuary;\n(d) to promote, in the public interest, knowledge and research in matters relevant to Actuarial science and its application; and\n(e) to do all such other things as may be incidental or conducive to the above objects.",
+      "keywords": ["objects", "Institute"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "6",
+      "title": "Entry of names in register",
+      "chapter": "Chapter II - Institute of Actuaries of India",
+      "subChapter": "",
+      "content": "(1) The following persons are entitled to have their names entered in the register: (a) any person who, immediately before the appointed day, was an associate or fellow (including honorary fellow) of the Actuarial Society; (b) any person who has passed the Actuarial Society's examination and completed training as specified by that Society or the Council, except a person not permanently resident in India; (c) any person who has passed such examination and completed such training as may be specified for Institute membership; (d) any person who has passed equivalent examination and training outside India as specified: Provided that for persons not permanently residing in India, the Central Government or Council may impose further conditions in the public interest.\n(2) Persons under clause (a) may have their names entered without payment of an entrance fee.\n(3) Persons under clauses (b), (c) and (d) shall have their names entered on application and payment of specified fees.\n(4) The Council shall take steps to have the names of all persons under clause (a) entered in the register before the appointed day.\n(5) The Council may confer honorary fellow membership on any person who has made a significant contribution to the profession; such person shall have no voting rights and need not pay any fee.",
+      "keywords": ["register", "entry of names", "associates", "fellows", "honorary fellow"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "7",
+      "title": "Associates and fellows",
+      "chapter": "Chapter II - Institute of Actuaries of India",
+      "subChapter": "",
+      "content": "(1) Members of the Institute shall be divided into two classes: associates and fellows.\n(2) A person (other than a fellow under sub-section (3)) shall, on entry in the register, be deemed an associate and may use the letters \"AIAI\" after his name.\n(3) A person who was a fellow of the Actuarial Society and entitled to entry under section 6(1)(a) shall be entered as a fellow.\n(4) A person entered as fellow may use the letters \"FIAI\" after his name.",
+      "keywords": ["associates", "fellows", "AIAI", "FIAI"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "8",
+      "title": "Honorary, affiliate and student members",
+      "chapter": "Chapter II - Institute of Actuaries of India",
+      "subChapter": "",
+      "content": "(1) The Council may choose a person of eminence (not practising as an Actuary) as an honorary member.\n(2) A fellow member (or equivalent) of a similar institution may be admitted as an affiliate member for a specified period and on specified terms.\n(3) A person who enrolls for the Institute's examination and possesses specified academic qualifications may be admitted as a student member.\n(4) Honorary, affiliate and student members have no right to vote on any matter or resolution at any Institute meeting.",
+      "keywords": ["honorary member", "affiliate member", "student member"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "9",
+      "title": "Certificate of practice",
+      "chapter": "Chapter II - Institute of Actuaries of India",
+      "subChapter": "",
+      "content": "(1) No member shall be entitled to practice unless he fulfils specified qualifications and obtains a certificate of practice from the Council.\n(2) A member desiring to practice shall apply in the specified form and pay the specified annual fee, payable on or before 1st April each year.\n(3) The certificate of practice may be cancelled by the Council under specified circumstances.",
+      "keywords": ["certificate of practice", "annual fee"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "10",
+      "title": "Members to be known as Actuaries",
+      "chapter": "Chapter II - Institute of Actuaries of India",
+      "subChapter": "",
+      "content": "Every member in practice shall, and any other member may, use the designation of an Actuary, and no member using such designation shall use any other description in addition or substitution: Provided that a member may add other description or letters to indicate membership of another recognised institute or other qualifications, and a firm of which all partners are members in practice may be known by its firm name as Actuaries.",
+      "keywords": ["designation", "Actuary title"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "11",
+      "title": "Disqualifications",
+      "chapter": "Chapter II - Institute of Actuaries of India",
+      "subChapter": "",
+      "content": "Notwithstanding section 6, a person shall not be entitled to have his name entered or borne on the register if he: (a) has not attained twenty-one years of age at the time of application; (b) is of unsound mind and adjudged so by a competent court; (c) is an undischarged insolvent; (d) being a discharged insolvent, has not obtained a court certificate that his insolvency was caused by misfortune without misconduct; (e) has been convicted of an offence involving moral turpitude and punishable with imprisonment, or a non-technical offence in his professional capacity, unless pardoned or the disqualification removed by the Central Government; or (f) has been removed from Institute membership for professional or other misconduct: Provided that a person removed for a specified period shall not be entitled to re-entry until expiry of that period.",
+      "keywords": ["disqualifications", "insolvency", "misconduct"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "12",
+      "title": "Composition of Council of Institute",
+      "chapter": "Chapter II - Institute of Actuaries of India",
+      "subChapter": "",
+      "content": "(1) There shall be a Council of the Institute for management of its affairs and functions.\n(2) The Council shall comprise: (a) a minimum of nine and not more than twelve fellow members elected by fellow and associate members, in the prescribed manner: Provided that a fellow found guilty of professional or other misconduct and removed from the register or fined shall be ineligible to contest election for three years (misconduct outside Part IV(B) of the Schedule) or six years (misconduct under Part IV(B)) after completion of the removal period or payment of fine; and (b)(i) an officer not below Joint Secretary rank nominated by the Central Government to represent the Ministry of Finance; (ii) one person from the Insurance Regulatory and Development Authority nominated by the Central Government; and (iii) not more than two persons with knowledge in life/general insurance, finance, economics, law, accountancy or other useful discipline, nominated as prescribed: Provided that until the Council is constituted, the Executive Committee of the Actuarial Society shall discharge all Council functions and powers.\n(3) No person holding a post under the Central or State Government shall be eligible for election under clause (a).\n(4) One-third of the elected members shall retire by rotation on expiration of every second year but are eligible for re-election.\n(5) A nominated member holds office for six years unless removed earlier by the Central Government (with an opportunity of being heard), and is eligible for re-nomination.",
+      "keywords": ["Council composition", "election", "nomination"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "13",
+      "title": "Annual general meetings",
+      "chapter": "Chapter II - Institute of Actuaries of India",
+      "subChapter": "",
+      "content": "The Council shall hold an annual general meeting each year to elect elected members under section 12(2)(a) or discuss any matter it deems fit, with not more than fifteen months between successive meetings: Provided that the Institute may hold its first annual general meeting within eighteen months of the appointed day, in which case no further general meeting is required that year: Provided further that the Central Government may, for sufficient reasons, extend the time for holding any general meeting.",
+      "keywords": ["annual general meeting"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "14",
+      "title": "Re-election to Council",
+      "chapter": "Chapter II - Institute of Actuaries of India",
+      "subChapter": "",
+      "content": "(1) An elected Council member is eligible for re-election but not for more than two consecutive terms.\n(2) A Council member who is or has been elected President under section 17(1) shall not be eligible for election or nomination as a Council member.",
+      "keywords": ["re-election", "consecutive terms"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "15",
+      "title": "Settlement of disputes regarding election",
+      "chapter": "Chapter II - Institute of Actuaries of India",
+      "subChapter": "",
+      "content": "In case of any dispute regarding an election under section 12(2)(a), the aggrieved person may apply within thirty days of the declaration of results to the Council, which shall forward it forthwith to the Central Government.",
+      "keywords": ["election disputes"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "16",
+      "title": "Establishment of Tribunal",
+      "chapter": "Chapter II - Institute of Actuaries of India",
+      "subChapter": "",
+      "content": "(1) On receipt of an application under section 15, the Central Government shall, by notification, establish a Tribunal consisting of a Presiding Officer and two other Members to decide the dispute; the Tribunal's decision is final.\n(2) A person shall not be qualified for appointment: (a) as Presiding Officer unless he has been a member of the Indian Legal Service and held a Grade I post for at least three years; (b) as a Member unless he has been a Council member for at least one full term, is not a sitting Council member, and was not a candidate in the disputed election; and (c) as a Member unless he holds a post of Joint Secretary to the Government of India or an equivalent-scale post.\n(3) The terms and conditions of service, place of meetings, remuneration and allowances of the Presiding Officer and Members shall be as prescribed.\n(4) The expenses of the Tribunal shall be borne by the Council.",
+      "keywords": ["Tribunal", "election dispute resolution"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "17",
+      "title": "President, Vice-President and Honorary Secretary",
+      "chapter": "Chapter II - Institute of Actuaries of India",
+      "subChapter": "",
+      "content": "(1) The Council shall, at its first meeting, elect three of its elected members as President, Vice-President and Honorary Secretary, and shall similarly fill vacancies as they arise: Provided that the Chairperson of the Actuarial Society's Council shall continue as President after commencement of this Act until a President is elected.\n(2) The President shall be the Chief Executive Officer of the Council.\n(3) The President, Vice-President or Honorary Secretary shall hold office for two years from election, provided he continues to be a Council member.\n(4) The President and Vice-President shall continue in office, notwithstanding expiry of term, until a successor enters office.\n(5) On a vacancy in the office of President, the Vice-President shall act as President until a new President is elected and enters office.\n(6) When the President is unable to discharge functions due to absence, illness or other cause, the Vice-President shall discharge his functions until the President resumes duties.",
+      "keywords": ["President", "Vice-President", "Honorary Secretary"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "18",
+      "title": "Resignation from membership and filling up of casual vacancies",
+      "chapter": "Chapter II - Institute of Actuaries of India",
+      "subChapter": "",
+      "content": "(1) Any Council member may resign by writing to the President; the seat becomes vacant on acceptance and notification by the Council.\n(2) A Council member (other than one nominated under section 12(2)(b)) is deemed to have vacated his seat if declared by the Council to have been absent without sufficient reason from three consecutive Council or Committee meetings of which he is a member, or found guilty of professional or other misconduct and fined, or his name removed from the register under sections 24 and 30.\n(3) A casual vacancy shall be filled by fresh election or nomination by the Central Government, as applicable, and the person filling the vacancy holds office only for the remainder of the term: Provided no election shall be held to fill a casual vacancy occurring within one year of the term's expiry.\n(4) No act of the Council shall be questioned merely on the ground of a vacancy or defect in the Council's constitution.",
+      "keywords": ["resignation", "casual vacancy"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "19",
+      "title": "Functions of Council",
+      "chapter": "Chapter II - Institute of Actuaries of India",
+      "subChapter": "",
+      "content": "(1) The duty of carrying out functions under this Act is vested in the Council.\n(2) The Council's functions include: (a) holding examinations and specifying fees; (b) specifying qualifications for register entry; (c) recognising foreign qualifications and training; (d) granting or refusing certificates of practice; (e) maintaining and publishing the register; (f) levying and collecting fees; (g) removing and restoring names on the register; (h) regulating and maintaining professional standards; (i) issuing guidelines for members including student members; (j) receiving gifts, grants, donations, bequests and property transfers; (k) co-operating with similar institutions worldwide; (l) instituting fellowships, scholarships, prizes and medals; (m) giving gifts, grants or donations to similar institutions; (n) granting financial assistance for actuarial science research; (o) maintaining a library and publishing books/journals; (p) exercising disciplinary powers under this Act; (q) establishing regional councils and fixing their headquarters; and (r) doing all things necessary, incidental or conducive to the Institute's objects.",
+      "keywords": ["Council functions", "examinations", "register", "fees", "disciplinary powers"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "20",
+      "title": "Staff, remuneration and allowances",
+      "chapter": "Chapter II - Institute of Actuaries of India",
+      "subChapter": "",
+      "content": "(1) The Council may: (a) appoint an Executive Director, a Treasurer and other officers/employees, fixing their salaries, fees and allowances; and (b) fix allowances of the President, Vice-President, Honorary Secretary and other Council/Committee members, as specified.\n(2) The Executive Director may participate in Council meetings but has no vote.",
+      "keywords": ["staff", "Executive Director", "Treasurer", "remuneration"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "21",
+      "title": "Committees of Council",
+      "chapter": "Chapter II - Institute of Actuaries of India",
+      "subChapter": "",
+      "content": "(1) The Council may constitute committees from its members and co-opt non-members as necessary, provided co-opted members do not exceed one-third of the committee's total membership.\n(2) Each committee elects its own Chairman: Provided that if the President is a member, he is Chairman (and in his absence, the Vice-President if a member); if the President is not a member but the Vice-President is, the Vice-President is Chairman.\n(3) Committees exercise such functions and are subject to such conditions as specified.",
+      "keywords": ["committees", "co-opted members"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "22",
+      "title": "Finances of Council",
+      "chapter": "Chapter II - Institute of Actuaries of India",
+      "subChapter": "",
+      "content": "(1) A fund shall be established under Council management, into which all moneys received (including donations and grants) are paid, and from which all expenses and liabilities are met.\n(2) The Council may invest fund moneys in any security it deems prudent, consistent with security of investment and maximum returns. Explanation.—\"Securities\" has the meaning under section 2 of the Securities Contracts (Regulation) Act, 1956.\n(3) The Council shall keep proper accounts, distinguishing capital from revenue account.\n(4) Annual accounts shall be audited by a Chartered Accountant in practice, appointed annually by the Council: Provided no Council member who is a Chartered Accountant, or his partner, is eligible for appointment as auditor.\n(5) By 30th September following each year, the Council shall publish audited accounts and its report in the Gazette of India and forward copies to the Central Government and all members.\n(6) The Council may borrow from a scheduled bank or public financial institution for capital liabilities (on security of the fund or other assets) or for current liabilities pending receipt of income, by temporary loan or overdraft. Explanation.—\"Public financial institution\" has the meaning under section 4A of the Companies Act, 1956.",
+      "keywords": ["finances", "fund", "audit", "borrowing"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "23",
+      "title": "Register",
+      "chapter": "Chapter III - Register of Members",
+      "subChapter": "",
+      "content": "(1) The Council shall maintain a register of members in the specified manner.\n(2) The register shall include: (a) full name, date of birth, domicile, residential and professional addresses; (b) date of entry in the register; (c) qualifications; (d) whether he holds a certificate of practice; and (e) any other specified particulars.\n(3) The Council shall publish a list of members as on 1st April each year, and send a copy to any requesting member on payment of a specified amount.\n(4) Every member shall pay the specified annual membership fee on entry of his name.",
+      "keywords": ["register of members", "annual fee"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "24",
+      "title": "Removal of name from Register",
+      "chapter": "Chapter III - Register of Members",
+      "subChapter": "",
+      "content": "The Council may, by order, remove from the register the name of any member who: (a) is dead; (b) has requested removal; (c) has not paid a specified fee due; (d) is or becomes subject to any disqualification under section 11; or (e) for any other reason has ceased to be entitled to have his name on the register.",
+      "keywords": ["removal from register"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "25",
+      "title": "Re-entry in register",
+      "chapter": "Chapter III - Register of Members",
+      "subChapter": "",
+      "content": "The Council may re-enter the name of a member removed for reasons under section 24(b), (c), (d) and (e), by order, on payment of specified fees and satisfying specified conditions and requirements.",
+      "keywords": ["re-entry", "register"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "26",
+      "title": "Disciplinary Committee",
+      "chapter": "Chapter IV - Misconduct",
+      "subChapter": "",
+      "content": "(1) The Council shall constitute a Disciplinary Committee consisting of the President or Vice-President as Presiding Officer, two Council members elected by the Council, and two members nominated by the Central Government from persons of eminence in law, education, economics, business, finance, accountancy or public administration: Provided the Council may constitute more regional Disciplinary Committees as it deems fit.\n(2) The Disciplinary Committee shall follow the prescribed procedure and submit its report to the Council within the prescribed time.",
+      "keywords": ["Disciplinary Committee"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "27",
+      "title": "Appointment of Prosecution Director",
+      "chapter": "Chapter IV - Misconduct",
+      "subChapter": "",
+      "content": "(1) The Council may, by notification, appoint a Prosecution Director and other employees to assist the Disciplinary Committee in inquiries into information or complaints received under this Act.\n(2) The Prosecution Director shall follow the prescribed procedure for such inquiries.",
+      "keywords": ["Prosecution Director"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "28",
+      "title": "Authority, Council, Disciplinary Committee and Prosecution Director to have powers of civil court",
+      "chapter": "Chapter IV - Misconduct",
+      "subChapter": "",
+      "content": "For inquiries under this Act, the Authority, Disciplinary Committee and Prosecution Director have the same powers as a civil court under the Code of Civil Procedure, 1908, in respect of: (a) summoning and enforcing attendance and examining on oath; (b) discovery and production of documents; and (c) receiving evidence on affidavit.",
+      "keywords": ["civil court powers", "inquiry"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "29",
+      "title": "Action by Council on Disciplinary Committee's report",
+      "chapter": "Chapter IV - Misconduct",
+      "subChapter": "",
+      "content": "(1) On receiving the Disciplinary Committee's report, if satisfied the member is guilty of professional or other misconduct, the Council shall record its findings and proceed under section 30.\n(2) If not satisfied and of the opinion further inquiry is required, the Council may refer the report back to the Disciplinary Committee for further inquiry as directed.\n(3) If the Council disagrees with the Disciplinary Committee's findings, it may direct the Prosecution Director, or itself, to appeal to the Authority.",
+      "keywords": ["Disciplinary Committee report", "Council action"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "30",
+      "title": "Member to be afforded opportunity of being heard",
+      "chapter": "Chapter IV - Misconduct",
+      "subChapter": "",
+      "content": "Where the Council is of the opinion that a member is guilty of professional or other misconduct mentioned in the Schedule, it shall afford the member a reasonable opportunity of being heard before making any order, and may thereafter: (a) reprimand the member; (b) remove his name from the register permanently or for such period as it thinks fit; or (c) impose a fine which may extend to five lakh rupees. Explanation.—\"Member of the Institute\" includes a person who was a member on the date of the alleged misconduct although no longer a member at the time of inquiry.",
+      "keywords": ["opportunity of being heard", "reprimand", "removal", "fine"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "31",
+      "title": "Professional or other misconduct defined",
+      "chapter": "Chapter IV - Misconduct",
+      "subChapter": "",
+      "content": "\"Professional or other misconduct\" is deemed to include any act or omission provided in the Schedule, but this section does not limit or abridge the power or duty of the Disciplinary Committee or Prosecution Director to inquire into a member's conduct under any other circumstances.",
+      "keywords": ["misconduct definition", "Schedule"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "32",
+      "title": "Constitution of Appellate Authority",
+      "chapter": "Chapter V - Appeals",
+      "subChapter": "",
+      "content": "The Appellate Authority constituted under section 22A(1) of the Chartered Accountants Act, 1949 shall be deemed the Appellate Authority for this Act, subject to the modification that clause (b) of that sub-section is replaced: the Central Government shall, by notification, appoint two part-time Members from persons who have been members of the Council of the Institute of Actuaries for at least one full term and who are not sitting Council members.",
+      "keywords": ["Appellate Authority", "Chartered Accountants Act"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "33",
+      "title": "Term of office of Members of Authority",
+      "chapter": "Chapter V - Appeals",
+      "subChapter": "",
+      "content": "A person appointed as a Member of the Authority shall hold office for three years from the date he enters upon office, or until he attains sixty-seven years of age, whichever is earlier.",
+      "keywords": ["term of office", "Appellate Authority"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "34",
+      "title": "Allowances, conditions of service of Members and procedure, etc., of Authority",
+      "chapter": "Chapter V - Appeals",
+      "subChapter": "",
+      "content": "Sections 22C, 22D and 22F of the Chartered Accountants Act, 1949 apply to the Authority in relation to allowances and terms and conditions of service of its Chairperson and members, and in discharge of its functions under this Act, as they apply under the Chartered Accountants Act, 1949.",
+      "keywords": ["allowances", "conditions of service", "Authority procedure"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "35",
+      "title": "Officers and other staff of Authority",
+      "chapter": "Chapter V - Appeals",
+      "subChapter": "",
+      "content": "(1) The Council shall make available to the Authority such officers and staff as necessary for its efficient functioning.\n(2) The salaries, allowances and conditions of service of such officers and staff shall be as specified.",
+      "keywords": ["Authority staff"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "36",
+      "title": "Appeal to Authority",
+      "chapter": "Chapter V - Appeals",
+      "subChapter": "",
+      "content": "(1) A member aggrieved by a Council order under section 30 may, within ninety days of communication of the order, appeal to the Authority: Provided the Authority may entertain a late appeal if satisfied there was sufficient cause for delay.\n(2) The Authority, after calling for the case records, may revise any order under section 30 and: (a) confirm, modify or set aside the order; (b) impose, set aside, reduce or enhance the penalty; (c) remit the case to the Disciplinary Committee for further inquiry; or (d) pass such other order as it thinks fit: Provided the Authority shall give the parties an opportunity of being heard before passing any order.",
+      "keywords": ["appeal", "Appellate Authority powers"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "37",
+      "title": "Penalty for falsely claiming to be a member, etc.",
+      "chapter": "Chapter VI - Penalties",
+      "subChapter": "",
+      "content": "Subject to section 10, any person who: (a) not being a member: (i) represents himself as a member in any manner under section 7; (ii) uses the designation \"Actuary\"; (iii) uses the letters \"AIAI\" or \"FIAI\"; or (iv) practises the profession of an Actuary; or (b) being a member without a certificate of practice, represents that he is in practice or practises as an Actuary; shall be punishable on first conviction with fine up to one lakh rupees, and on subsequent conviction with imprisonment up to one year, or fine up to two lakh rupees, or both.",
+      "keywords": ["penalty", "false claim of membership"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "38",
+      "title": "Penalty for using name of Institution, awarding degrees of actuarial science, etc.",
+      "chapter": "Chapter VI - Penalties",
+      "subChapter": "",
+      "content": "(1) Save as otherwise provided, no person shall: (a) use a name or common seal identical or nearly resembling the Institute's so as to deceive or likely to deceive the public; (b) award any degree, diploma, certificate or designation indicating a position or qualification in actuaryship similar to that of an Institute member; or (c) seek to regulate in any manner the profession of Actuaries.\n(2) Contravention is punishable with fine up to fifty thousand rupees on first conviction, and on subsequent conviction with imprisonment up to one year, or fine up to one lakh rupees, or both.\n(3) This section does not apply to any University or institution established by law or any body affiliated to the Institute.",
+      "keywords": ["penalty", "misuse of name", "false degrees"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "39",
+      "title": "Companies not to engage in actuarial practice",
+      "chapter": "Chapter VI - Penalties",
+      "subChapter": "",
+      "content": "(1) No company, whether incorporated in India or elsewhere, shall practice as Actuaries.\n(2) Contravention is punishable on first conviction with fine up to ten thousand rupees, and on subsequent conviction with fine up to twenty-five thousand rupees.",
+      "keywords": ["companies", "actuarial practice prohibited"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "40",
+      "title": "Unqualified person not to sign documents",
+      "chapter": "Chapter VI - Penalties",
+      "subChapter": "",
+      "content": "(1) No person other than a fellow member shall sign any document on behalf of an Actuary in practice, or a firm of such Actuaries, in his or its professional capacity.\n(2) Contravention is punishable on first conviction with fine up to fifty thousand rupees, and on subsequent conviction with imprisonment up to one year, or fine up to one lakh rupees, or both.",
+      "keywords": ["signing documents", "unqualified persons"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "41",
+      "title": "Offences by companies",
+      "chapter": "Chapter VI - Penalties",
+      "subChapter": "",
+      "content": "(1) If an offence under this Act is committed by a company, the company and every person in charge of and responsible to it for conduct of its business at the time shall be deemed guilty and liable accordingly: Provided a person shall not be liable if he proves the offence was committed without his knowledge or that he exercised all due diligence to prevent it.\n(2) Where the offence is proved to have been committed with the consent or connivance of, or attributable to neglect by, a director, manager, secretary or other officer, that person shall also be deemed guilty and liable accordingly. Explanation.—\"Company\" means any body corporate and includes a firm or association of individuals; \"director\", for a firm, means a partner.",
+      "keywords": ["offences by companies", "director liability"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "42",
+      "title": "Sanction to prosecute",
+      "chapter": "Chapter VI - Penalties",
+      "subChapter": "",
+      "content": "No person shall be prosecuted under this Act except on a complaint made by or under the order of the Council or the Central Government.",
+      "keywords": ["sanction to prosecute"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "43",
+      "title": "Establishment of Quality Review Board",
+      "chapter": "Chapter VII - Quality Review Board",
+      "subChapter": "",
+      "content": "(1) The Central Government shall, by notification, constitute a Quality Review Board consisting of a Chairperson and not more than four Members: Provided that if constituted with two Members, one each shall be nominated by the Council and the Central Government respectively.\n(2) The Chairperson and Members shall be appointed from persons of eminence in law, education, economics, business, finance, accountancy or public administration.\n(3) Two Members shall be nominated by the Council and two by the Central Government.",
+      "keywords": ["Quality Review Board", "constitution"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "44",
+      "title": "Functions of Board",
+      "chapter": "Chapter VII - Quality Review Board",
+      "subChapter": "",
+      "content": "The Board shall: (a) fix standards for services provided by Institute members; (b) review the quality of services provided by members, including actuarial audit services; and (c) guide members to improve service quality and adherence to statutory and regulatory requirements.",
+      "keywords": ["Quality Review Board functions"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "45",
+      "title": "Procedure of Board",
+      "chapter": "Chapter VII - Quality Review Board",
+      "subChapter": "",
+      "content": "The Board shall follow such procedure in its meetings and discharge of functions as may be prescribed.",
+      "keywords": ["Board procedure"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "46",
+      "title": "Terms and conditions of Chairperson and Members of Board",
+      "chapter": "Chapter VII - Quality Review Board",
+      "subChapter": "",
+      "content": "The terms and conditions of service of the Chairperson and Members of the Board, their place of meetings, remuneration and allowances shall be as prescribed.",
+      "keywords": ["Board terms of service"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "47",
+      "title": "Expenditure of Board",
+      "chapter": "Chapter VII - Quality Review Board",
+      "subChapter": "",
+      "content": "The expenditure of the Board shall be borne by the Council.",
+      "keywords": ["Board expenditure"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "48",
+      "title": "Dissolution of Actuarial Society of India",
+      "chapter": "Chapter VIII - Dissolution of the Actuarial Society of India Registered under the Societies Registration Act",
+      "subChapter": "",
+      "content": "On the appointed day: (a) the Actuarial Society of India, registered under the Societies Registration Act, 1860 and the Bombay Public Trusts Act, 1950, stands dissolved, and no claims, demands or proceedings may thereafter be made against the dissolved society or its officers in that capacity, except as necessary to enforce this Act; (b) the right of every member to, or in respect of, the dissolved society is extinguished, and no member may thereafter make any claims, demands or proceedings in respect of that society except as provided in this Act.",
+      "keywords": ["dissolution", "Actuarial Society of India"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "49",
+      "title": "Provisions respecting employees of dissolved society",
+      "chapter": "Chapter VIII - Dissolution of the Actuarial Society of India Registered under the Societies Registration Act",
+      "subChapter": "",
+      "content": "(1) Every person employed in the dissolved society and continuing in employment immediately before commencement of this Act shall become an employee of the Institute, holding office by the same tenure and terms (including retirement benefits) as he would have held under the dissolved society, until his employment is terminated or his terms are duly altered by the Institute.\n(2) Notwithstanding the Industrial Disputes Act, 1947 or any other law, the transfer of an employee's service to the Institute shall not entitle him to compensation under that Act or other law, and no such claim shall be entertained by any court, tribunal or other authority.",
+      "keywords": ["dissolved society employees", "transfer of service"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "50",
+      "title": "Maintenance of more than one office by Actuary",
+      "chapter": "Chapter IX - Miscellaneous",
+      "subChapter": "",
+      "content": "(1) Where an Actuary in practice or firm of such Actuaries has more than one office within or outside India, each office shall be in the separate charge of a fellow member: Provided the Council may exempt any Actuary or firm from this requirement in suitable cases.\n(2) Every such Actuary or firm shall send the Council a list of offices and the person in charge of each, and keep the Council informed of changes.",
+      "keywords": ["multiple offices"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "51",
+      "title": "Reciprocity",
+      "chapter": "Chapter IX - Miscellaneous",
+      "subChapter": "",
+      "content": "(1) Where a country notified by the Central Government prevents persons of Indian domicile from becoming members of a similar institution or practising as Actuaries, or subjects them to unfair discrimination, no subject of that country shall be entitled to become a member of the Institute or practice as an Actuary in India.\n(2) Subject to sub-section (1), the Council may specify conditions for recognising foreign actuarial qualifications for register entry.",
+      "keywords": ["reciprocity", "foreign qualifications"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "52",
+      "title": "Power of Central Government to issue directions",
+      "chapter": "Chapter IX - Miscellaneous",
+      "subChapter": "",
+      "content": "(1) The Central Government may give the Council general or special directions, which the Council shall comply with in discharging its functions.\n(2) If the Council persistently defaults in giving effect to such directions, the Central Government may, after giving it an opportunity of being heard, by notification, dissolve the Council, and a new Council shall be constituted from a date decided by the Central Government.\n(3) Pending constitution of a new Council after dissolution, the Central Government may authorise any person or body to manage the Council's affairs and exercise specified functions.",
+      "keywords": ["Central Government directions", "dissolution of Council"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "53",
+      "title": "Protection of action taken in good faith",
+      "chapter": "Chapter IX - Miscellaneous",
+      "subChapter": "",
+      "content": "No suit, prosecution or other legal proceeding shall lie against the Central Government, the Council, the Disciplinary Committee, the Tribunal, the Authority, the Board, the Prosecution Director, or any officer thereof, for anything done or intended to be done in good faith under this Act or any rule, regulation, notification, direction or order made thereunder.",
+      "keywords": ["good faith protection"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "54",
+      "title": "Members, etc., to be public servants",
+      "chapter": "Chapter IX - Miscellaneous",
+      "subChapter": "",
+      "content": "The Chairperson, Presiding Officer, Members and other officers and employees of the Authority, Tribunal and Board, and the Prosecution Director, shall be deemed public servants within the meaning of section 21 of the Indian Penal Code (45 of 1860).",
+      "keywords": ["public servants"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "55",
+      "title": "Power of Central Government to make rules",
+      "chapter": "Chapter IX - Miscellaneous",
+      "subChapter": "",
+      "content": "(1) The Central Government may, by notification, make rules to carry out this Act.\n(2) Such rules may provide for: (a) manner of election and nomination of Council members under section 12(2); (b) terms and conditions of service, place of meeting, remuneration and allowances of Tribunal Presiding Officer and Members under section 16(3); (c) procedure for inquiry and report submission by the Disciplinary Committee under section 26(2); (d) procedure of inquiry by the Prosecution Director under section 27(2); (e) acts or omissions determined as professional misconduct under section 31; (f) procedure to be followed by the Board under section 45; and (g) terms and conditions of service of the Board Chairman and Members under section 46.",
+      "keywords": ["rule-making power"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "56",
+      "title": "Power to make regulations",
+      "chapter": "Chapter IX - Miscellaneous",
+      "subChapter": "",
+      "content": "(1) The Council may, with previous approval of the Central Government and after previous publication, by notification, make regulations to carry out this Act.\n(2) Such regulations may provide for: (a) examination and training under section 6(1)(b)-(d); (b) manner of application under section 6(3); (c) fees payable under sections 6(3), 9(2), 19(2)(a), 23(4); (d) manner of choosing honorary members under section 8(1); (e) terms for admission of affiliate members under section 8(2); (f) academic qualifications for student members under section 8(3); (g) qualifications and application form for certificate of practice under section 9; (h) transaction of Council business under section 19(2); (i) terms of service under section 20(1); (j) functions and conditions of committees under section 21(3); (k) manner of maintaining the register under section 23(1)-(2); (l) manner of publishing the annual members' list under section 23(3); (m) conditions, requirements and fees for re-entry under section 25; (n) salaries, allowances and conditions of service of Authority staff under section 35(2); (o) conditions for recognising foreign qualifications under section 51(2); and (p) any other prescribed matter.",
+      "keywords": ["regulation-making power"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "57",
+      "title": "Power of Central Government to issue directions for making or amending regulations",
+      "chapter": "Chapter IX - Miscellaneous",
+      "subChapter": "",
+      "content": "(1) Where the Central Government considers it expedient, it may direct the Council in writing to make, amend or revoke any regulations within a specified period.\n(2) If the Council fails or neglects to comply within that period, the Central Government may itself make, amend or revoke the regulations.",
+      "keywords": ["directions on regulations"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "58",
+      "title": "Laying of rules and regulations",
+      "chapter": "Chapter IX - Miscellaneous",
+      "subChapter": "",
+      "content": "Every rule and regulation made under this Act shall be laid, as soon as may be, before each House of Parliament, while in session, for a total period of thirty days (which may be comprised in one or more sessions); if both Houses agree on modifications or that it should not be made, it shall thereafter have effect only in such modified form or be of no effect, without prejudice to anything previously done under it.",
+      "keywords": ["laying of rules", "Parliament"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "59",
+      "title": "Power to remove difficulties",
+      "chapter": "Chapter IX - Miscellaneous",
+      "subChapter": "",
+      "content": "(1) If any difficulty arises in giving effect to this Act, the Central Government may, by order published in the Official Gazette, make such provisions, not inconsistent with this Act, as may appear necessary for removing the difficulty: Provided no such order shall be made after two years from the commencement of this Act.\n(2) Every order made under this section shall, as soon as may be, be laid before each House of Parliament.",
+      "keywords": ["removal of difficulties"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    },
+    {
+      "number": "Schedule",
+      "title": "The Schedule — Professional and Other Misconduct",
+      "chapter": "Schedule",
+      "subChapter": "",
+      "content": "[See section 31]\n\nPART I — Professional misconduct in relation to members in practice. An Actuary in practice is guilty of professional misconduct if he, among other things: allows a non-actuary to practise in his name; shares fees/commission improperly with non-members; enters into improper partnerships; secures business through improper means; accepts an assignment previously held by another Actuary without first communicating with him in writing; charges contingent fees except as permitted; engages in another business/occupation without Council permission (directorships excepted); undercuts a predecessor Actuary's position; allows an unauthorised person to sign valuation reports/financial statements on his behalf; discloses client information without consent (except as required by law); certifies statements not personally examined by him or his firm; fails to disclose a substantial interest in matters he reports on; fails to disclose material facts or misstatements known to him; is grossly negligent; fails to obtain sufficient information to form an opinion; or fails to note material departures from accepted professional procedure.\n\nPART II — Professional misconduct in relation to members in service. A member employed by a company, firm or person is guilty of misconduct if he pays or agrees to pay a share of his employment emoluments to another, accepts commission or gratification, or discloses confidential information acquired in employment except as required or permitted by his employer.\n\nPART III — Professional misconduct in relation to members generally. A member (in practice or not) is guilty of misconduct if he includes false particulars in any Council statement/return/form; falsely acts as a fellow member; fails to supply information or comply with Council requirements; contravenes this Act, its regulations, or Council guidelines; or is guilty of any other act or omission specified by the Council.\n\nPART IV — Other misconduct. A member is guilty of other misconduct if: (A)(1) held guilty by a civil or criminal court of an offence punishable with imprisonment up to six months; (A)(2) in the Council's opinion, brings disrepute to the profession or Institute by his actions, whether or not related to professional work; or (B) held guilty by a civil or criminal court of an offence punishable with imprisonment exceeding six months.",
+      "keywords": ["Schedule", "professional misconduct", "Part I", "Part II", "Part III", "Part IV"],
+      "stateAmendments": [],
+      "amendmentNotes": []
+    }
+  ]
+}
